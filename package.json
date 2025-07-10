@@ -1,5 +1,5 @@
 {
-  "name": "json-server-deploy",
+  "name": "data.json",
   "version": "1.0.0",
   "description": "Deploy json-server without custom server.js",
   "scripts": {
