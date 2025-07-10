@@ -1,0 +1,11 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "Deploy json-server without custom server.js",
+  "scripts": {
+    "start": "json-server --watch data.json --port $PORT"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
